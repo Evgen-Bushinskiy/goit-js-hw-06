@@ -6,5 +6,4 @@ navItemEl.forEach(el => {
     const numberOfElRef = el.querySelectorAll('li');
 
     console.log(`Category: ${titleRef.textContent}`);
-    console.log(`Elements: ${numberOfElRef.length}`);
-});
+    console.log(`Elements: ${numberOfElRef.length}`);});
